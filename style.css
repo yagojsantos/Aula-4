@@ -3,7 +3,7 @@ body{
 }
 header {
 	background: #BBBBBB;
-	padding: 20px 0;
+	padding: 2px 0;
 }
 
 .caixa {
@@ -107,6 +107,7 @@ form label, form legend {
 	margin: 0 0 20px;
 	padding: 10px 25px;
 	width: 50%;
+	resize: none;
 }
 
 .checkbox {
@@ -216,4 +217,67 @@ td, th {
 .video{
 	width: 560px;
 	margin: 2em auto;
+}
+/* Responsividade para outros tamanhos de tela */
+
+@media screen and (max-width: 480px ){
+
+/* CABEÇALHO */
+
+	.caixa {
+	padding-bottom: 10px;
+	}
+	.caixa,.principal, .conteudo-beneficios, .mapa-conteudo, .video{
+		width: auto;
+	}
+	h1{
+		text-align: center;
+	}
+	nav{
+		position: static;
+	}
+
+/* HOME */
+
+	.lista-beneficios, .imagem-beneficios{
+		width: 100%;
+	}
+
+/* PRODUTOS */
+
+	.produtos {
+		width: auto;
+	}
+	.produtos li {
+		display: block;
+		width: auto;
+		margin: 1.5%;
+		padding: 30px 20px;
+		box-sizing: border-box;
+	}
+
+/* CONTATO */
+
+	form {
+		margin: 40px 20px;
+	}
+	.input-padrao {
+		width: 75%;
+	}
+	select{
+		font-size: 1.1em;
+		padding: 5px;
+	}
+	.enviar {
+		width:50%;
+		padding: 15px 0.4em;
+		font-size: 16px;
+	}
+	.enviar:hover {
+	margin: 20px;
+	}
+	table {
+		margin: 20px 20px 40px;
+	}
+	
 }
