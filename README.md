@@ -1,17 +1,16 @@
 ![yagojsantos-repo-status](https://img.shields.io/badge/Status-Finalizado-lightgrey?style=for-the-badge&logo=headspace&logoColor=green&color=lightgrey)
-
 # Barbearia Alura - Completa
 
 Projeto do curso HTML5 e CSS3 (parte 4): avançando no CSS, codificado.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev | |
 | -------------  | --- |
 | :sparkles: Nome        | **Barbearia Alura Completa**
 | :label: Tecnologias | HTML 5, CSS3
 | :rocket: URL         | https://yagojsantos.github.io/barbearia-alura-completa/
 
 O foco nessa etapa foi o aprimoramento da página “Home” elaborada na primeira parte do curso. <br>
-Confira a evolução nas imagens abaixo : 
+Confira a evolução nas imagens abaixo 👇: 
 
 <table>
                 <thead>
@@ -52,3 +51,5 @@ CSS
 * Pseudo-elementos (first-letter, first-line, after, before);
 * Seletores avançados (>, ~, +, not);
 * Media query.
+
+<img style="width:1px;" src="https://github.com/yagojsantos/barbearia-alura-completa/blob/main/capa-nova-home.png#vitrinedev">
