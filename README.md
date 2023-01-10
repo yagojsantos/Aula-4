@@ -20,8 +20,8 @@ Confira a evolução nas imagens abaixo 👇:
                 </thead>
                 <tbody>
                     <tr>
-                        <td><img style="width: 460px" src="https://github.com/yagojsantos/barbearia-alura-completa/blob/main/capa-antiga-home.png"></td>
-                        <td><img style="width: 460px" src="https://github.com/yagojsantos/barbearia-alura-completa/blob/main/capa-nova-home.png#vitrinedev"></td>
+                        <td><img style="width: 100%" src="https://github.com/yagojsantos/barbearia-alura-completa/blob/main/capa-antiga-home.png"></td>
+                        <td><img style="width: 100%" src="https://github.com/yagojsantos/barbearia-alura-completa/blob/main/capa-nova-home.png"></td>
                     </tr>
                 </tbody>
             </table>
