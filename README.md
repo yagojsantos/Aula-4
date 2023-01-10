@@ -11,7 +11,7 @@ Projeto do curso HTML5 e CSS3 (parte 4): avançando no CSS, codificado.
 | :rocket: URL         | https://yagojsantos.github.io/barbearia-alura-completa/
 
 O foco nessa etapa foi o aprimoramento da página “Home” elaborada na primeira parte do curso. <br>
-Confira a evolução nas imagens abaixo 👇: 
+Confira a evolução nas imagens abaixo : 
 
 <table>
                 <thead>
